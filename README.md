@@ -14,7 +14,8 @@
  Ferramentas: AWS, caso nao possua, crie uma conta >> https://aws.amazon.com/                                              
               Python                                                                                                       
               Spark                                                                                                        
-              SQL                                                                                                                                                                                                              
+              SQL    
+                                                                                                                                                                                                                        
  Importante: Farei todo o conteudo utilizando a Cloud AWS, onde alguns dos servicos tem custo, em meus testes              
              gastei aproximadamente R$ 40,00 nos meses de maior custo. Caso voce nao deseje esse custo, terah              
              que adaptar para que as coisas funcionem em seu ambiente on premise                                           
