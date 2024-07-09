@@ -26,3 +26,5 @@ df_salaries = pd.read_csv(BytesIO(csv_bytes))
 
 # Imprimir o conteúdo do seu dataframe
 df_salaries.head()
+
+#teste
